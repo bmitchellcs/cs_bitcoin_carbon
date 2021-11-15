@@ -1,0 +1,8 @@
+pandas
+schedule
+requests
+pygsheets
+streamlit
+coinmetrics
+sqlalchemy
+pymysql
